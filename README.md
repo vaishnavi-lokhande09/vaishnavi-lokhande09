@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Vaishnavi Lokhande 👋
 
-<!--
-**vaishnavi-lokhande09/vaishnavi-lokhande09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | MIS Analyst** | SQL · Python · Power BI · Advanced Excel
 
-Here are some ideas to get you started:
+MCA graduate specializing in Data Analysis and MIS Reporting. I work with multi-table datasets to clean, analyze, and turn raw data into KPI-driven business insights and Power BI dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Currently building: **NexaTel Customer Churn Analytics**
+- 📊 Featured project: **[IndiaKart E-Commerce Analytics](https://github.com/vaishnavi-lokhande09/indiakart-ecommerce-analytics)** — end-to-end analysis of a 216K-record e-commerce dataset (data cleaning, EDA, KPI calculation, Power BI dashboard, management report)
+- 🌱 Also completed: Deloitte, Commonwealth Bank, and Siemens Mobility job simulations (Forage)
+- 💬 Open to: Data Analyst / MIS Analyst opportunities
+
+### 🛠️ Tools & Technologies
+`SQL` `Python (Pandas, NumPy)` `Power BI` `Advanced Excel` `Tableau (Basic)` `Jupyter Notebook`
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/vaishnavi-lokhande-01b521421) · vaishnavilokhande194@gmail.com
